@@ -31,7 +31,7 @@ function validateForm() {
 
 function submitForm() {
     if (validateForm()) {
-        alert("Form submitted successfully!");
+        alert("Submitted successfully!");
     } else {
         alert("Please correct the errors.");
     }

@@ -25,6 +25,7 @@
                 <h4>Email</h4> <input type="email" id="email">
                 <h4>Create Password (min 8 characters)</h4><input type="password" id="pass">
                 <h4>Confirm Password</h4><input type="password" id="cpass">
+                
                 <h4>Donation Amount</h4>
                 <input type="radio" name="des" id="amount"> None
                 <input type="radio" name="des" id="amount"> 500 BDT
